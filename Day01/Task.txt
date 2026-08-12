@@ -1,0 +1,39 @@
+Report about .NET Versions, Namespace, .NET Core and Solution
+
+.NET Versions
+
+.NET has different versions. The old version is **.NET Framework**, which is mainly used for Windows applications.
+Then **.NET Core** was introduced, which can work on Windows, Linux, and macOS.
+After that, Microsoft introduced **.NET 5 and later versions** as a unified platform.
+
+Namespace
+
+A Namespace is used to organize the code and group related classes together. It also helps to avoid conflicts when two classes have the same name.
+
+For example:
+
+csharp
+namespace MyApp.Models
+{
+    class Student
+    {
+    }
+}
+
+
+.NET Core
+
+.NET Core is an open-source and cross-platform version of .NET. It can be used to develop different types of applications and works on more than one operating system.
+
+Solution
+
+A Solution in Visual Studio is a container that can contain one or more projects. It is used to organize the projects of an application in one place.
+
+For example, a solution can contain projects like:
+
+ Models
+ Services
+ Controllers
+ Data
+
+Each one can be a separate project depending on how the application is designed.

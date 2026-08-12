@@ -1,0 +1,9 @@
+overhead at runtime (JITting) → what is done to reduce this?
+-JIT compilation introduces runtime overhead 
+because IL code needs to be compiled into native machine code
+ during execution.
+ .NET reduces this overhead using techniques
+ such as Tiered Compilation, ReadyToRun, and Native AOT.
+
+
+

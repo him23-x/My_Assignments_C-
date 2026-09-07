@@ -1,0 +1,5 @@
+
+// Save in memory (Performance) ? self
+// Method table
+// objects no have a copy of method but its shared method usning method table and pointer in object
+//refer to the table

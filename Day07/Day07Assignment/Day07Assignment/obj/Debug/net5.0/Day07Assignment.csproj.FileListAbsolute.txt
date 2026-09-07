@@ -1,0 +1,16 @@
+F:\DEPI R5\C#\My_Assignments_C#\Day07\Day07Assignment\Day07Assignment\bin\Debug\net5.0\Day07Assignment.exe
+F:\DEPI R5\C#\My_Assignments_C#\Day07\Day07Assignment\Day07Assignment\bin\Debug\net5.0\Day07Assignment.deps.json
+F:\DEPI R5\C#\My_Assignments_C#\Day07\Day07Assignment\Day07Assignment\bin\Debug\net5.0\Day07Assignment.runtimeconfig.json
+F:\DEPI R5\C#\My_Assignments_C#\Day07\Day07Assignment\Day07Assignment\bin\Debug\net5.0\Day07Assignment.runtimeconfig.dev.json
+F:\DEPI R5\C#\My_Assignments_C#\Day07\Day07Assignment\Day07Assignment\bin\Debug\net5.0\Day07Assignment.dll
+F:\DEPI R5\C#\My_Assignments_C#\Day07\Day07Assignment\Day07Assignment\bin\Debug\net5.0\Day07Assignment.pdb
+F:\DEPI R5\C#\My_Assignments_C#\Day07\Day07Assignment\Day07Assignment\obj\Debug\net5.0\Day07Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEPI R5\C#\My_Assignments_C#\Day07\Day07Assignment\Day07Assignment\obj\Debug\net5.0\Day07Assignment.AssemblyInfoInputs.cache
+F:\DEPI R5\C#\My_Assignments_C#\Day07\Day07Assignment\Day07Assignment\obj\Debug\net5.0\Day07Assignment.AssemblyInfo.cs
+F:\DEPI R5\C#\My_Assignments_C#\Day07\Day07Assignment\Day07Assignment\obj\Debug\net5.0\Day07Assignment.csproj.CoreCompileInputs.cache
+F:\DEPI R5\C#\My_Assignments_C#\Day07\Day07Assignment\Day07Assignment\obj\Debug\net5.0\Day07Assignment.sourcelink.json
+F:\DEPI R5\C#\My_Assignments_C#\Day07\Day07Assignment\Day07Assignment\obj\Debug\net5.0\Day07Assignment.dll
+F:\DEPI R5\C#\My_Assignments_C#\Day07\Day07Assignment\Day07Assignment\obj\Debug\net5.0\refint\Day07Assignment.dll
+F:\DEPI R5\C#\My_Assignments_C#\Day07\Day07Assignment\Day07Assignment\obj\Debug\net5.0\Day07Assignment.pdb
+F:\DEPI R5\C#\My_Assignments_C#\Day07\Day07Assignment\Day07Assignment\obj\Debug\net5.0\Day07Assignment.genruntimeconfig.cache
+F:\DEPI R5\C#\My_Assignments_C#\Day07\Day07Assignment\Day07Assignment\obj\Debug\net5.0\ref\Day07Assignment.dll

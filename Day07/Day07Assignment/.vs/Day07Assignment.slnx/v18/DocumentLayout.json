@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DEPI R5\\C#\\My_Assignments_C#\\Day07\\Day07Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE49E0B6-6790-1034-79C5-A16D51F11ED3}|Day07Assignment\\Day07Assignment.csproj|f:\\depi r5\\c#\\my_assignments_c#\\day07\\day07assignment\\day07assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE49E0B6-6790-1034-79C5-A16D51F11ED3}|Day07Assignment\\Day07Assignment.csproj|solutionrelative:day07assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE49E0B6-6790-1034-79C5-A16D51F11ED3}|Day07Assignment\\Day07Assignment.csproj|f:\\depi r5\\c#\\my_assignments_c#\\day07\\day07assignment\\day07assignment\\interfaces\\iwritable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE49E0B6-6790-1034-79C5-A16D51F11ED3}|Day07Assignment\\Day07Assignment.csproj|solutionrelative:day07assignment\\interfaces\\iwritable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE49E0B6-6790-1034-79C5-A16D51F11ED3}|Day07Assignment\\Day07Assignment.csproj|f:\\depi r5\\c#\\my_assignments_c#\\day07\\day07assignment\\day07assignment\\interfaces\\ireadable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE49E0B6-6790-1034-79C5-A16D51F11ED3}|Day07Assignment\\Day07Assignment.csproj|solutionrelative:day07assignment\\interfaces\\ireadable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE49E0B6-6790-1034-79C5-A16D51F11ED3}|Day07Assignment\\Day07Assignment.csproj|f:\\depi r5\\c#\\my_assignments_c#\\day07\\day07assignment\\day07assignment\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE49E0B6-6790-1034-79C5-A16D51F11ED3}|Day07Assignment\\Day07Assignment.csproj|solutionrelative:day07assignment\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE49E0B6-6790-1034-79C5-A16D51F11ED3}|Day07Assignment\\Day07Assignment.csproj|f:\\depi r5\\c#\\my_assignments_c#\\day07\\day07assignment\\day07assignment\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE49E0B6-6790-1034-79C5-A16D51F11ED3}|Day07Assignment\\Day07Assignment.csproj|solutionrelative:day07assignment\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IWritable.cs",
+              "DocumentMoniker": "F:\\DEPI R5\\C#\\My_Assignments_C#\\Day07\\Day07Assignment\\Day07Assignment\\Interfaces\\IWritable.cs",
+              "RelativeDocumentMoniker": "Day07Assignment\\Interfaces\\IWritable.cs",
+              "ToolTip": "F:\\DEPI R5\\C#\\My_Assignments_C#\\Day07\\Day07Assignment\\Day07Assignment\\Interfaces\\IWritable.cs",
+              "RelativeToolTip": "Day07Assignment\\Interfaces\\IWritable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T10:37:23.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IReadable.cs",
+              "DocumentMoniker": "F:\\DEPI R5\\C#\\My_Assignments_C#\\Day07\\Day07Assignment\\Day07Assignment\\Interfaces\\IReadable.cs",
+              "RelativeDocumentMoniker": "Day07Assignment\\Interfaces\\IReadable.cs",
+              "ToolTip": "F:\\DEPI R5\\C#\\My_Assignments_C#\\Day07\\Day07Assignment\\Day07Assignment\\Interfaces\\IReadable.cs",
+              "RelativeToolTip": "Day07Assignment\\Interfaces\\IReadable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T10:36:24.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "F:\\DEPI R5\\C#\\My_Assignments_C#\\Day07\\Day07Assignment\\Day07Assignment\\Car.cs",
+              "RelativeDocumentMoniker": "Day07Assignment\\Car.cs",
+              "ToolTip": "F:\\DEPI R5\\C#\\My_Assignments_C#\\Day07\\Day07Assignment\\Day07Assignment\\Car.cs",
+              "RelativeToolTip": "Day07Assignment\\Car.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T10:30:48.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMovable.cs",
+              "DocumentMoniker": "F:\\DEPI R5\\C#\\My_Assignments_C#\\Day07\\Day07Assignment\\Day07Assignment\\IMovable.cs",
+              "RelativeDocumentMoniker": "Day07Assignment\\IMovable.cs",
+              "ToolTip": "F:\\DEPI R5\\C#\\My_Assignments_C#\\Day07\\Day07Assignment\\Day07Assignment\\IMovable.cs",
+              "RelativeToolTip": "Day07Assignment\\IMovable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T10:29:23.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DEPI R5\\C#\\My_Assignments_C#\\Day07\\Day07Assignment\\Day07Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Day07Assignment\\Program.cs",
+              "ToolTip": "F:\\DEPI R5\\C#\\My_Assignments_C#\\Day07\\Day07Assignment\\Day07Assignment\\Program.cs",
+              "RelativeToolTip": "Day07Assignment\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T05:59:11.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

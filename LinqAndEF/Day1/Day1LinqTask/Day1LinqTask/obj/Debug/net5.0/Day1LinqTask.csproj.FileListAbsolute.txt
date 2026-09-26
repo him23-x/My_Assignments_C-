@@ -1,0 +1,17 @@
+F:\DEPI R5\C#\My_Assignments_C#\Day09\Day1LinqTask\Day1LinqTask\bin\Debug\net5.0\Day1LinqTask.exe
+F:\DEPI R5\C#\My_Assignments_C#\Day09\Day1LinqTask\Day1LinqTask\bin\Debug\net5.0\Day1LinqTask.deps.json
+F:\DEPI R5\C#\My_Assignments_C#\Day09\Day1LinqTask\Day1LinqTask\bin\Debug\net5.0\Day1LinqTask.runtimeconfig.json
+F:\DEPI R5\C#\My_Assignments_C#\Day09\Day1LinqTask\Day1LinqTask\bin\Debug\net5.0\Day1LinqTask.runtimeconfig.dev.json
+F:\DEPI R5\C#\My_Assignments_C#\Day09\Day1LinqTask\Day1LinqTask\bin\Debug\net5.0\Day1LinqTask.dll
+F:\DEPI R5\C#\My_Assignments_C#\Day09\Day1LinqTask\Day1LinqTask\bin\Debug\net5.0\Day1LinqTask.pdb
+F:\DEPI R5\C#\My_Assignments_C#\Day09\Day1LinqTask\Day1LinqTask\obj\Debug\net5.0\Day1LinqTask.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEPI R5\C#\My_Assignments_C#\Day09\Day1LinqTask\Day1LinqTask\obj\Debug\net5.0\Day1LinqTask.AssemblyInfoInputs.cache
+F:\DEPI R5\C#\My_Assignments_C#\Day09\Day1LinqTask\Day1LinqTask\obj\Debug\net5.0\Day1LinqTask.AssemblyInfo.cs
+F:\DEPI R5\C#\My_Assignments_C#\Day09\Day1LinqTask\Day1LinqTask\obj\Debug\net5.0\Day1LinqTask.csproj.CoreCompileInputs.cache
+F:\DEPI R5\C#\My_Assignments_C#\Day09\Day1LinqTask\Day1LinqTask\obj\Debug\net5.0\Day1LinqTask.sourcelink.json
+F:\DEPI R5\C#\My_Assignments_C#\Day09\Day1LinqTask\Day1LinqTask\obj\Debug\net5.0\Day1LinqTask.dll
+F:\DEPI R5\C#\My_Assignments_C#\Day09\Day1LinqTask\Day1LinqTask\obj\Debug\net5.0\refint\Day1LinqTask.dll
+F:\DEPI R5\C#\My_Assignments_C#\Day09\Day1LinqTask\Day1LinqTask\obj\Debug\net5.0\Day1LinqTask.pdb
+F:\DEPI R5\C#\My_Assignments_C#\Day09\Day1LinqTask\Day1LinqTask\obj\Debug\net5.0\Day1LinqTask.genruntimeconfig.cache
+F:\DEPI R5\C#\My_Assignments_C#\Day09\Day1LinqTask\Day1LinqTask\obj\Debug\net5.0\ref\Day1LinqTask.dll
+F:\DEPI R5\C#\My_Assignments_C#\Day09\Day1LinqTask\Day1LinqTask\obj\Debug\net5.0\Day1Linq.47CBB354.Up2Date

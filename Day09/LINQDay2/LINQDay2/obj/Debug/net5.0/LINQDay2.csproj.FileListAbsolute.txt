@@ -1,0 +1,17 @@
+F:\DEPI R5\C#\My_Assignments_C#\Day09\LINQDay2\LINQDay2\bin\Debug\net5.0\LINQDay2.exe
+F:\DEPI R5\C#\My_Assignments_C#\Day09\LINQDay2\LINQDay2\bin\Debug\net5.0\LINQDay2.deps.json
+F:\DEPI R5\C#\My_Assignments_C#\Day09\LINQDay2\LINQDay2\bin\Debug\net5.0\LINQDay2.runtimeconfig.json
+F:\DEPI R5\C#\My_Assignments_C#\Day09\LINQDay2\LINQDay2\bin\Debug\net5.0\LINQDay2.runtimeconfig.dev.json
+F:\DEPI R5\C#\My_Assignments_C#\Day09\LINQDay2\LINQDay2\bin\Debug\net5.0\LINQDay2.dll
+F:\DEPI R5\C#\My_Assignments_C#\Day09\LINQDay2\LINQDay2\bin\Debug\net5.0\LINQDay2.pdb
+F:\DEPI R5\C#\My_Assignments_C#\Day09\LINQDay2\LINQDay2\obj\Debug\net5.0\LINQDay2.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEPI R5\C#\My_Assignments_C#\Day09\LINQDay2\LINQDay2\obj\Debug\net5.0\LINQDay2.AssemblyInfoInputs.cache
+F:\DEPI R5\C#\My_Assignments_C#\Day09\LINQDay2\LINQDay2\obj\Debug\net5.0\LINQDay2.AssemblyInfo.cs
+F:\DEPI R5\C#\My_Assignments_C#\Day09\LINQDay2\LINQDay2\obj\Debug\net5.0\LINQDay2.csproj.CoreCompileInputs.cache
+F:\DEPI R5\C#\My_Assignments_C#\Day09\LINQDay2\LINQDay2\obj\Debug\net5.0\LINQDay2.sourcelink.json
+F:\DEPI R5\C#\My_Assignments_C#\Day09\LINQDay2\LINQDay2\obj\Debug\net5.0\LINQDay2.dll
+F:\DEPI R5\C#\My_Assignments_C#\Day09\LINQDay2\LINQDay2\obj\Debug\net5.0\refint\LINQDay2.dll
+F:\DEPI R5\C#\My_Assignments_C#\Day09\LINQDay2\LINQDay2\obj\Debug\net5.0\LINQDay2.pdb
+F:\DEPI R5\C#\My_Assignments_C#\Day09\LINQDay2\LINQDay2\obj\Debug\net5.0\LINQDay2.genruntimeconfig.cache
+F:\DEPI R5\C#\My_Assignments_C#\Day09\LINQDay2\LINQDay2\obj\Debug\net5.0\ref\LINQDay2.dll
+F:\DEPI R5\C#\My_Assignments_C#\Day09\LINQDay2\LINQDay2\obj\Debug\net5.0\LINQDay2.csproj.Up2Date

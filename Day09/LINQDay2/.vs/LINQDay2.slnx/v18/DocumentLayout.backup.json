@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DEPI R5\\C#\\My_Assignments_C#\\Day09\\LINQDay2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC40CD2-6C85-468A-9CD2-17EEB14308E5}|LINQDay2\\LINQDay2.csproj|f:\\depi r5\\c#\\my_assignments_c#\\day09\\linqday2\\linqday2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC40CD2-6C85-468A-9CD2-17EEB14308E5}|LINQDay2\\LINQDay2.csproj|solutionrelative:linqday2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC40CD2-6C85-468A-9CD2-17EEB14308E5}|LINQDay2\\LINQDay2.csproj|f:\\depi r5\\c#\\my_assignments_c#\\day09\\linqday2\\linqday2\\listgenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC40CD2-6C85-468A-9CD2-17EEB14308E5}|LINQDay2\\LINQDay2.csproj|solutionrelative:linqday2\\listgenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DEPI R5\\LINQ\u0026EntityFramework\\Day02\\Demos\\Linq\u0026EFDay01Solution\\Linq\u0026EFDay01\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DEPI R5\\LINQ\u0026EntityFramework\\Day02\\Demos\\Linq\u0026EFDay01Solution\\Linq\u0026EFDay01\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\LINQ\u0026EntityFramework\\Day02\\Demos\\Linq\u0026EFDay01Solution\\Linq\u0026EFDay01\\Program.cs",
+              "ToolTip": "F:\\DEPI R5\\LINQ\u0026EntityFramework\\Day02\\Demos\\Linq\u0026EFDay01Solution\\Linq\u0026EFDay01\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\LINQ\u0026EntityFramework\\Day02\\Demos\\Linq\u0026EFDay01Solution\\Linq\u0026EFDay01\\Program.cs",
+              "ViewState": "AgIAAEABAAAAAAAAAAAAAE4CAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T08:17:22.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListGenerators.cs",
+              "DocumentMoniker": "F:\\DEPI R5\\C#\\My_Assignments_C#\\Day09\\LINQDay2\\LINQDay2\\ListGenerators.cs",
+              "RelativeDocumentMoniker": "LINQDay2\\ListGenerators.cs",
+              "ToolTip": "F:\\DEPI R5\\C#\\My_Assignments_C#\\Day09\\LINQDay2\\LINQDay2\\ListGenerators.cs",
+              "RelativeToolTip": "LINQDay2\\ListGenerators.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAmwPkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T08:16:28.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DEPI R5\\C#\\My_Assignments_C#\\Day09\\LINQDay2\\LINQDay2\\Program.cs",
+              "RelativeDocumentMoniker": "LINQDay2\\Program.cs",
+              "ToolTip": "F:\\DEPI R5\\C#\\My_Assignments_C#\\Day09\\LINQDay2\\LINQDay2\\Program.cs*",
+              "RelativeToolTip": "LINQDay2\\Program.cs*",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAcwOMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T08:07:52.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

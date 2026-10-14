@@ -1,0 +1,34 @@
+Type: TrueFalseQuestion
+Header: Question 1
+Body: C# supports OOP.
+Marks: 5
+Answers:
+1. True
+2. False
+-------------------------
+Type: ChooseOneQuestion
+Header: Question 2
+Body: Which is a programming language?
+Marks: 5
+Answers:
+1. HTML
+2. C#
+3. CSS
+-------------------------
+Type: TrueFalseQuestion
+Header: Question 1
+Body: C# supports OOP.
+Marks: 5
+Answers:
+1. True
+2. False
+-------------------------
+Type: ChooseOneQuestion
+Header: Question 2
+Body: Which is a programming language?
+Marks: 5
+Answers:
+1. HTML
+2. C#
+3. CSS
+-------------------------

@@ -1,0 +1,8 @@
+Type: TrueFalseQuestion
+Header: Question 1
+Body: C# supports OOP.
+Marks: 5
+Answers:
+1. True
+2. False
+-------------------------

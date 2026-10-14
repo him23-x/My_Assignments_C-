@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabry\\source\\repos\\CSharpMiniProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FDA71BC-5B62-4AA0-A34E-EE1F31616EFE}|CSharpMiniProject\\CSharpMiniProject.csproj|c:\\users\\sabry\\source\\repos\\csharpminiproject\\csharpminiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FDA71BC-5B62-4AA0-A34E-EE1F31616EFE}|CSharpMiniProject\\CSharpMiniProject.csproj|solutionrelative:csharpminiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FDA71BC-5B62-4AA0-A34E-EE1F31616EFE}|CSharpMiniProject\\CSharpMiniProject.csproj|c:\\users\\sabry\\source\\repos\\csharpminiproject\\csharpminiproject\\exams\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FDA71BC-5B62-4AA0-A34E-EE1F31616EFE}|CSharpMiniProject\\CSharpMiniProject.csproj|solutionrelative:csharpminiproject\\exams\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FDA71BC-5B62-4AA0-A34E-EE1F31616EFE}|CSharpMiniProject\\CSharpMiniProject.csproj|c:\\users\\sabry\\source\\repos\\csharpminiproject\\csharpminiproject\\exams\\practiceexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FDA71BC-5B62-4AA0-A34E-EE1F31616EFE}|CSharpMiniProject\\CSharpMiniProject.csproj|solutionrelative:csharpminiproject\\exams\\practiceexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinalExam.cs",
+              "DocumentMoniker": "C:\\Users\\sabry\\source\\repos\\CSharpMiniProject\\CSharpMiniProject\\Exams\\FinalExam.cs",
+              "RelativeDocumentMoniker": "CSharpMiniProject\\Exams\\FinalExam.cs",
+              "ToolTip": "C:\\Users\\sabry\\source\\repos\\CSharpMiniProject\\CSharpMiniProject\\Exams\\FinalExam.cs",
+              "RelativeToolTip": "CSharpMiniProject\\Exams\\FinalExam.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:51:33.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PracticeExam.cs",
+              "DocumentMoniker": "C:\\Users\\sabry\\source\\repos\\CSharpMiniProject\\CSharpMiniProject\\Exams\\PracticeExam.cs",
+              "RelativeDocumentMoniker": "CSharpMiniProject\\Exams\\PracticeExam.cs",
+              "ToolTip": "C:\\Users\\sabry\\source\\repos\\CSharpMiniProject\\CSharpMiniProject\\Exams\\PracticeExam.cs",
+              "RelativeToolTip": "CSharpMiniProject\\Exams\\PracticeExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:46:03.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabry\\source\\repos\\CSharpMiniProject\\CSharpMiniProject\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpMiniProject\\Program.cs",
+              "ToolTip": "C:\\Users\\sabry\\source\\repos\\CSharpMiniProject\\CSharpMiniProject\\Program.cs",
+              "RelativeToolTip": "CSharpMiniProject\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwFMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T14:24:09.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

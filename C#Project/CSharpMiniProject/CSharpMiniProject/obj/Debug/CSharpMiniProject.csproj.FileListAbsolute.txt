@@ -1,0 +1,7 @@
+C:\Users\sabry\source\repos\CSharpMiniProject\CSharpMiniProject\bin\Debug\CSharpMiniProject.exe.config
+C:\Users\sabry\source\repos\CSharpMiniProject\CSharpMiniProject\bin\Debug\CSharpMiniProject.exe
+C:\Users\sabry\source\repos\CSharpMiniProject\CSharpMiniProject\bin\Debug\CSharpMiniProject.pdb
+C:\Users\sabry\source\repos\CSharpMiniProject\CSharpMiniProject\obj\Debug\CSharpMiniProject.csproj.AssemblyReference.cache
+C:\Users\sabry\source\repos\CSharpMiniProject\CSharpMiniProject\obj\Debug\CSharpMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\sabry\source\repos\CSharpMiniProject\CSharpMiniProject\obj\Debug\CSharpMiniProject.exe
+C:\Users\sabry\source\repos\CSharpMiniProject\CSharpMiniProject\obj\Debug\CSharpMiniProject.pdb

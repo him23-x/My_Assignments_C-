@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iU0omJGeI70=",
+  "dgSpecHash": "OqdY9p2W9AQ=",
   "success": true,
-  "projectFilePath": "F:\\DEPI R5\\DEPI_GraduationProject\\Day02Task\\Day02Task\\Day02Task.csproj",
+  "projectFilePath": "F:\\DEPI R5\\C#\\My_Assignments_C#\\ASP.NET MVC\\Day02\\Day02Task\\Day02Task\\Day02Task.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sabry\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\sabry\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

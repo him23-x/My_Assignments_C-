@@ -6,16 +6,15 @@ namespace Day02Task.Controllers
 {
     public class StudentController : Controller
     {
+        StudentBL studentBL = new StudentBL();
         public IActionResult ShowAll()
         {
-            StudentBL studentBL = new StudentBL();
             List<Student> students = studentBL.GetAllStudents();
             return View("ShowAll", students);
         }
 
         public IActionResult ShowDetails(int id)
         {
-            StudentBL studentBL = new StudentBL();
             Student student = studentBL.GetStudentById(id);
             return View("ShowDetails", student);
         }

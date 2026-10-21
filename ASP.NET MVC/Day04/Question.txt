@@ -1,0 +1,3 @@
+What is the purpose of async/await keywords ?
+
+async and await used for operation that take a time

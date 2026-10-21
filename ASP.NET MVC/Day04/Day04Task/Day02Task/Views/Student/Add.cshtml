@@ -1,0 +1,23 @@
+﻿@model StuDeptViewModel
+<h1>Adding Page</h1>
+
+<form method="post" action="/Student/SaveAdd">
+	<div>
+		<label>Name</label>
+		<input type="text" id="Name" name="Name" value="@Model?.Name" class="form-control form" />
+	</div>
+	<div>
+		<label>Age</label>
+		<input type="number" id="Age" name="Age" value="@Model?.Age" class="form-control form" />
+	</div>
+	<div>
+		<label>Department</label>
+		<select id="DepartmentId" name="DepartmentId" class="form-control form">
+			@foreach(var item in Model.Departments)
+			{
+				<option value="@item.Id">@item.Name</option>
+			}
+		</select>
+	</div>
+	<input type="submit" value="Create" class="btn btn-primary mt-3 mb-3" />
+</form>

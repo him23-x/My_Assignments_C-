@@ -1,0 +1,13 @@
+﻿@using Day02Task.ViewModels
+@model DepartmentWithExtraInfo
+
+<h1>@Model.DeptName</h1>
+<h2>@Model.Experience</h2>
+
+
+<select>
+	@foreach (var item in Model.Students)
+	{
+		<option>@item.Name</option>
+	}
+</select>

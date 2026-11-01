@@ -1,0 +1,58 @@
+@model CourseDeptViewModel
+@{
+    ViewData["Title"] = "Add New Course";
+    Layout = "~/Views/Shared/_CustomLayout.cshtml";
+}
+
+<div class="content-card">
+    <div class="card-header">
+        <h6><i class="fas fa-plus-circle me-2"></i>Add New Course</h6>
+        <a asp-controller="Course" asp-action="ShowAll" class="btn btn-secondary btn-sm">
+            <i class="fas fa-arrow-left me-1"></i> Back to List
+        </a>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-6">
+                <form asp-controller="Course" asp-action="SaveAdd" method="post">
+                    <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                    <div class="mb-3">
+                        <label asp-for="Name" class="form-label fw-bold"></label>
+                        <input asp-for="Name" class="form-control" placeholder="Enter course name" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Degree" class="form-label fw-bold"></label>
+                        <input asp-for="Degree" class="form-control" type="number" placeholder="Enter full degree" />
+                        <span asp-validation-for="Degree" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="MinDegree" class="form-label fw-bold"></label>
+                        <input asp-for="MinDegree" class="form-control" type="number" placeholder="Enter minimum passing degree" />
+                        <span asp-validation-for="MinDegree" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="DepartmentId" class="form-label fw-bold"></label>
+                        <select asp-for="DepartmentId" asp-items="Model.DepartmentList" class="form-select">
+                            <option value="">-- Select Department --</option>
+                        </select>
+                        <span asp-validation-for="DepartmentId" class="text-danger"></span>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary mt-2">
+                        <i class="fas fa-save me-1"></i> Create
+                    </button>
+                    <a asp-controller="Course" asp-action="ShowAll" class="btn btn-secondary mt-2 ms-2">Cancel</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+}
